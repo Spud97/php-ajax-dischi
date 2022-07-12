@@ -1,0 +1,16 @@
+h4 {
+  font-size: 1.1rem;
+  padding-top: 10px;
+  color: white;
+}
+span {
+  color: grey;
+}
+.bg-main {
+  background-color: #213344;
+}
+.card {
+  background-color: #344250;
+  height: 342px;
+  border-radius: 0;
+}
